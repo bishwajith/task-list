@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119014133728",
+    "project_id": "tasklist-64c6b",
+    "storage_bucket": "tasklist-64c6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119014133728:android:2e3a512f6958ee1bf6a585",
+        "android_client_info": {
+          "package_name": "com.bish.tasklist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFdjQkNE2Yh3V3E7pa5HZ8L48oUVN8wy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
